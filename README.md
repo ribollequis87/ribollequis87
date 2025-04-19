@@ -1,6 +1,6 @@
-Olá! Eu sou o Gustavo Colombi Ribolla 👋
+## Olá! Eu sou o Gustavo Colombi Ribolla 👋
 
-Este é meu respositório antigo! O novo pode ser encontrado em:
+### Este é meu respositório antigo! O novo, contendo meus repositórios e contribuições pode ser encontrado em: <br></br>
 https://github.com/gustavoribolla
 
 <!--
