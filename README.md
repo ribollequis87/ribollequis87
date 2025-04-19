@@ -1,4 +1,7 @@
-## Hi there 👋
+Olá! Eu sou o Gustavo Colombi Ribolla 👋
+
+Este é meu respositório antigo! O novo pode ser encontrado em:
+https://github.com/gustavoribolla
 
 <!--
 **ribollequis87/ribollequis87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
